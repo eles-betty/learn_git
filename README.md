@@ -1,2 +1,3 @@
-This is some config and tutorial for installing and configurating OSs and application on Macbook Air M1
-I make this to learn about github too
+Welcome to my repository! This space is dedicated to storing tutorials, processes, and configurations related to operating systems, applications, game development, web development, and other projects. It also serves as a platform for documenting my learning journey with GitHub.
+
+While this repository is still under development, I invite you to join me in this learning process. Together, we can improve our skills and knowledge through collaboration and shared experiences.
