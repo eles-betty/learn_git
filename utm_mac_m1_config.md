@@ -1,11 +1,13 @@
 # Install Debian i3 dan Konfigurasi UTM Pada MBA M1
 
-## Install UTM via Homebrew
+## Install UTM via Homebrew [^1]
 
-1. Buka terminal, lalu ketikan :
+1. Buka terminal, lalu ketikan : \
    `brew install --cask utm`
 
-2. Tunggu sampai proses instalasi selesai
+2. Tunggu sampai proses download dan instalasi selesai pada terminal
+
+3. Buka aplikasi UTM dan pilih menu `Create a New Virtual Machine` 
 
 ## Install Debian i3
 
@@ -19,9 +21,5 @@
 
 ## Footnote
 
-Here is a simple footnote[^1].
+[^1]: Jika tidak terbiasa menggunakan terminal, bisa mendownload melalui link <https://mac.getutm.app> dan instalasi file .dmg seperti biasa 
 
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: Markdown : <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
