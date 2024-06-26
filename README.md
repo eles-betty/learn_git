@@ -6,5 +6,5 @@ While this repository is still under development, anyone can join and improve so
 
 Keep on Learning 🔥🙂
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![id](https://img.shields.io/badge/lang-id-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/eles-betty/learn_git/blob/main/README-en.md)
+[![id](https://img.shields.io/badge/lang-id-green.svg)](https://github.com/eles-betty/learn_git/blob/main/README-id.md)
