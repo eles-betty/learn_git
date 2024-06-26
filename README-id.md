@@ -1,4 +1,4 @@
-# Selamat datang di repositori saya!
+# Selamat datang Repositoriku
 
 Repositori ini didedikasikan untuk menyimpan tutorial, proses, dan konfigurasi terkait dengan sistem operasi, aplikasi, pengkodean, dan proyek lainnya. Ini juga berfungsi sebagai platform untuk mendokumentasikan perjalanan pembelajaran saya dengan GitHub.
 
