@@ -7,7 +7,7 @@
 
 2. Tunggu sampai proses download dan instalasi selesai pada terminal
 
-3. Buka aplikasi UTM dan pilih menu `Create a New Virtual Machine` 
+3. Buka aplikasi UTM dan pilih menu `Create a New Virtual Machine`
 
 ## Install Debian i3
 
