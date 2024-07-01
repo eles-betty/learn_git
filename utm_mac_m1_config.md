@@ -19,6 +19,4 @@
 
 ## Penutup
 
-## Footnote
-
 [^1]: Jika tidak terbiasa menggunakan terminal, bisa mendownload melalui link <https://mac.getutm.app> dan instalasi file .dmg seperti biasa
