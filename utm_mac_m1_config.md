@@ -1,4 +1,4 @@
-# Install Debian i3 dan Konfigurasi UTM Pada MBA M1
+# Install Debian i3 dan Konfigurasi UTM Pada MBA M1 (Apple Silicon Chip - 2024)
 
 ## Install UTM via Homebrew [^1]
 
@@ -18,7 +18,5 @@
 ### Konfigurasi i3
 
 ## Penutup
-
-## Footnote
 
 [^1]: Jika tidak terbiasa menggunakan terminal, bisa mendownload melalui link <https://mac.getutm.app> dan instalasi file .dmg seperti biasa
