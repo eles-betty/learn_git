@@ -22,12 +22,16 @@
    | Root | `root` | `password` |
    | Default | `debian` | `debian` |
 
-## Konfigurasi Debian i3
-
 > [!NOTE]  
 > Pada tahap ini Debian i3 sudah bisa digunakan tapi akan dikustomasi sesuai kebutuhan
 
+## Konfigurasi Debian i3
+
 ### Update Debian
+
+1. Jalankan OS Debian [^3] yang telah didownload pada langkah sebelumnya, masukan username `debian` dan password `debian` untuk **default user** pada tampilan login
+
+2. Ketik `command + return` untuk membuka jendela terminal
 
 ### Konfigurasi i3
 
@@ -35,3 +39,4 @@
 
 [^1]: Jika tidak terbiasa menggunakan terminal, bisa mendownload melalui link <https://mac.getutm.app> dan instalasi file .dmg seperti biasa
 [^2]: Akan diarahkan ke halaman gallery prebuilt OS dari UTM di <https://mac.getutm.app/gallery/>, beberapa OS memiliki penjelasan bahkan sampai tutorial instalasi terpisah
+[^3]: Perlu diingat, bahwa OS prebuilt dari galeri UTM adalah `Debian 10.4` untuk arsitektur arm64 (Apple Silicon), sementara untuk versi terbaru dari website Debian saat ini (per 14 Juli 2024) adalah `Debian 12.6` untuk arsitektur arm64 (Apple Silicon) yang direlease bulan Juni 2024 kemarin, sehingga kita akan melalukan update dan upgrade dari Debian 10 ke 11, setelah itu baru 11 ke 12.
