@@ -31,7 +31,7 @@
 
 1. Jalankan OS Debian [^3] yang telah didownload pada langkah sebelumnya, masukan username `debian` dan password `debian` untuk **default user** pada tampilan login
 
-2. Ketik `command + return` untuk membuka jendela terminal
+2. Ketik <kbd>⌘ Command</kbd> + <kbd>⏎ Enter</kbd> untuk membuka jendela terminal
 
 ### Konfigurasi i3
 
