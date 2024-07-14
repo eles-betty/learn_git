@@ -24,7 +24,8 @@
 
 ## Konfigurasi Debian i3
 
-1. Untuk versi
+> [!NOTE]  
+> Pada tahap ini Debian i3 sudah bisa digunakan tapi akan dikustomasi sesuai kebutuhan
 
 ### Update Debian
 
